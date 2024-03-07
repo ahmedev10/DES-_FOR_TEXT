@@ -1,0 +1,9 @@
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\bin\Debug\TRIPLE_DES_TEXTS.exe.config
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\bin\Debug\TRIPLE_DES_TEXTS.exe
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\bin\Debug\TRIPLE_DES_TEXTS.pdb
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\obj\Debug\TRIPLE_DES_TEXTS.csprojResolveAssemblyReference.cache
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\obj\Debug\TRIPLE_DES_TEXTS.Form1.resources
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\obj\Debug\TRIPLE_DES_TEXTS.Properties.Resources.resources
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\obj\Debug\TRIPLE_DES_TEXTS.csproj.GenerateResource.Cache
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\obj\Debug\TRIPLE_DES_TEXTS.exe
+c:\users\mathar\documents\visual studio 2015\Projects\TRIPLE_DES_TEXTS\TRIPLE_DES_TEXTS\obj\Debug\TRIPLE_DES_TEXTS.pdb
