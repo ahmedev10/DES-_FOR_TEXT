@@ -1,2 +1,2 @@
-#DES(Dta Encryption Standred)
-##crytography for texts(encryption and decryptions)
+# DES(Dta Encryption Standred)
+## crytography for texts(encryption and decryptions)
